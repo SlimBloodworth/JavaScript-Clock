@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot-2021-11-17 (1).jpg)
+![](img src= "images/screenshot-2021-11-17 (1).jpg")
 
 ## My process
 
