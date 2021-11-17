@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](img src= "images/screenshot-2021-11-17 (1).jpg")
+![](https://github.com/SlimBloodworth/JavaScript-Clock/blob/main/images/screenshot-2021-11-17%20(1).png)
 
 ## My process
 
