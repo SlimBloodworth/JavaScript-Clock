@@ -48,7 +48,7 @@ Users should be able to:
 - Flexbox
 - JavaScript
 - Mobile-first workflow
-- Images: [NASA image Library](https://images.nasa.gov)
+- Images: [NASA image Library](https://www.nasa.gov/multimedia/imagegallery/index.html)
 
 ### Continued development
 
@@ -58,7 +58,7 @@ This clock will be implemented into a larger project, so it will eventuallu be m
 
 - [Web Dev Simplified YouTube](https://youtu.be/Ki0XXrlKlHY) - This video helped me figure out how to set the timing and the position of the hands. I really liked the way it is explained.
 - [geeksforgeeks](https://www.geeksforgeeks.org/how-to-set-a-responsive-full-background-image-using-css/) - This was/is an amazing article which helped me figure out how to get my body background to be responsive.
-- [NASA Image Library](https://images.nasa.gov) - NASA's Image Library is free to the public, there are no copyrights. I'll be using this for other projects.
+- [NASA Image Library](https://www.nasa.gov/multimedia/imagegallery/index.html) - NASA's Image Library is free to the public, there are no copyrights. I'll be using this for other projects.
 
 ## Author
 
@@ -71,4 +71,4 @@ This clock will be implemented into a larger project, so it will eventuallu be m
 
 - [Web Dev Simplified YouTube](https://youtu.be/Ki0XXrlKlHY) - This video helped me figure out how to set the timing and the position of the hands. I really liked the way it is explained.
 - [geeksforgeeks](https://www.geeksforgeeks.org/how-to-set-a-responsive-full-background-image-using-css/) - This was/is an amazing article which helped me figure out how to get my body background to be responsive.
-- [NASA Image Library](https://images.nasa.gov) - NASA's Image Library is free to the public, there are no copyrights. I'll be using this for other projects.
+- [NASA Image Library](https://www.nasa.gov/multimedia/imagegallery/index.html) - NASA's Image Library is free to the public, there are no copyrights. I'll be using this for other projects.
