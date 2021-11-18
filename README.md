@@ -23,7 +23,7 @@ The images are from NASA's Image Library. The page background is the Milky Way a
 
 Users should be able to:
 
-- View the optimal layout for each of the website's pages depending on their device's screen size
+- View the optimal layout for the website's page depending on their device's screen size
 - See that the time on the clock matches the time on the user device.
 
 ### Screenshot
