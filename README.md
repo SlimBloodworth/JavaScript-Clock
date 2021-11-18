@@ -7,7 +7,7 @@ This is a fun challenge I used to learn more about JavaScript basics.
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Lnks](#links)
+  - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
